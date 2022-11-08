@@ -1,0 +1,154 @@
+
+<style>
+.wrapper{
+	width: 100%;
+	height: 100vh;
+    position:absolute;
+    top:0;display:none;
+}
+
+
+
+.wrapper .modal_btn:hover{
+	background: #7b8d8f;
+}
+
+.wrapper .modal_box{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+	display: none;
+}
+
+.wrapper .modal_box .modal_bg_shadow{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #000;
+	opacity: 0.5;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
+.wrapper .modal_box .modal_box_wrap{
+	width:350px;
+	height: 150px;
+	background: #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border-radius: 5px;
+}
+ 
+.wrapper .modal_box .modal_box_wrap .modal_close{
+	position: absolute;
+	top: 0px;
+	right: -0px;
+	width: 50px;
+	height: 50px;
+	border:none;
+	cursor: pointer;
+}
+
+.wrapper .modal_box .modal_box_wrap .modal_close:before,
+.wrapper .modal_box .modal_box_wrap .modal_close:after{
+	content: "";
+	position: absolute;
+	top: 25px;
+	left: 13px;
+	width:15px;
+	height: 2px;
+	background:black;
+}
+
+.wrapper .modal_box .modal_box_wrap .modal_close:before{
+	transform: rotate(45deg);
+}
+
+.wrapper .modal_box .modal_box_wrap .modal_close:after{
+	transform: rotate(130deg);
+}
+
+.wrapper .modal_box .modal_box_wrap .modal_header{
+	padding: 20px;
+	border-bottom: 1px solid #e0e0e0;
+	height: 60px;
+	font-size: 22px;
+}	
+
+
+.wrapper .modal_box .modal_box_wrap .modal_body{
+	padding: 20px;
+	height:75px;
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.wrapper .modal_box .modal_box_wrap .modal_footer{
+	padding: 20px;
+	height: 50px;
+}
+
+.wrapper .modal_footer .modal_btn_grp{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	height: 100%;
+}
+
+.wrapper .modal_footer .modal_btn_grp .btn{
+	width: 125px;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+	cursor: pointer;
+    pointer-events:auto;
+    font-size: 12px;
+}
+
+.wrapper .modal_footer .modal_btn_grp .btn.btn_confirm{
+	margin-left: 10px;
+	--tw-bg-opacity: 1;
+    background-color: rgba(167, 243, 208, var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgba(4, 120, 87, var(--tw-text-opacity));
+}
+
+.wrapper .modal_footer .modal_btn_grp .btn.btn_cancel{
+    width:150px;
+	border: 1px solid rgba(254, 202, 202, var(--tw-bg-opacity));
+	 --tw-bg-opacity: 1;
+    --tw-text-opacity: 1;
+    color: rgba(185, 28, 28, var(--tw-text-opacity));
+}
+
+.wrapper .modal_footer .modal_btn_grp .btn.btn_cancel:hover{
+	   --tw-bg-opacity: 1; background-color: rgba(254, 202, 202, var(--tw-bg-opacity));
+
+}
+
+.wrapper .modal_box.active{
+	display: block;
+}
+</style>
+
+<div class="wrapper">
+	<div class="modal_box">
+		<div class="modal_bg_shadow"></div>
+		<div class="modal_box_wrap">
+			<div class="modal_close"></div>
+			<div class="modal_body">
+				
+			</div>
+			<div class="modal_footer">
+				<div class="modal_btn_grp">
+					<div class="btn btn_cancel" style="display: block;" onclick="cancel();">Non Enregistrées</div>
+					<div class="btn btn_confirm" style="display: block;" onclick="confirm();">Enregistrées</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
