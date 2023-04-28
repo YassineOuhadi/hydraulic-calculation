@@ -2,7 +2,34 @@ Hydraulic Calculation Web App
 
 ![Screenshot from 2022-11-09 14-48-21](https://user-images.githubusercontent.com/109771302/200846940-e7098d44-bfb1-498f-b252-146d4fe3cf06.png)
 
+![jesa1](https://user-images.githubusercontent.com/109771302/235131181-dbd831d8-9efc-46fe-aec5-66411e05d3a3.png)
+
+![jesa2](https://user-images.githubusercontent.com/109771302/235131194-d1d0d043-b9df-494e-b55a-880c968fd477.png)
+
+![jesa3](https://user-images.githubusercontent.com/109771302/235131226-117c847a-a673-4e02-b0b9-89919def5928.png)
+
+![jesa4](https://user-images.githubusercontent.com/109771302/235131265-96a0f1f0-e48a-4138-8b0a-3e1cd5987eb3.png)
+
+![jesa5](https://user-images.githubusercontent.com/109771302/235131287-6050aef0-0965-4baa-9bcf-9dc02052743b.png)
+
+![jesa6](https://user-images.githubusercontent.com/109771302/235131329-5dd04a71-3330-4a69-adb2-bbe46f35795f.png)
+
+![jesa7](https://user-images.githubusercontent.com/109771302/235131357-242953b4-c0dc-46a3-9246-b891928260b1.png)
+
+![jesa8](https://user-images.githubusercontent.com/109771302/235131372-6499bcf2-6d42-463b-8c1e-e14a9e426b59.png)
+
+![jesa9](https://user-images.githubusercontent.com/109771302/235131407-1b5241c5-3109-46dc-a399-af0f1182bbc1.png)
+
 ![Screenshot from 2022-11-09 01-10-06](https://user-images.githubusercontent.com/109771302/200706481-3bad7f5f-bded-4a8e-9713-2417df421b94.png)
 
+![jesa10](https://user-images.githubusercontent.com/109771302/235131551-152185fa-1959-42a4-8d2a-471d1bbeb5c3.png)
+
+![jesa11](https://user-images.githubusercontent.com/109771302/235131560-67a11563-a1f0-42f7-9969-eafd66813b1b.png)
+
+![jesa12](https://user-images.githubusercontent.com/109771302/235131578-e7c249ca-99ad-42cd-92a6-52fa6dd03b0a.png)
+
+![jesa13](https://user-images.githubusercontent.com/109771302/235131606-eb88acc5-3792-46b9-b72c-cdc4faf33e9f.png)
+
+![jesa14](https://user-images.githubusercontent.com/109771302/235131623-ad1c240a-2728-40ed-ac32-64a1d6e60a1b.png)
 
 ![Screenshot from 2022-11-09 00-52-32](https://user-images.githubusercontent.com/109771302/200701315-44936123-67b2-48c4-b4e9-49ae67ec8923.png)
