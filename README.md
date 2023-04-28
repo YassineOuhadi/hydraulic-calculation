@@ -1,7 +1,5 @@
 Hydraulic Calculation Web App
 
-![Screenshot from 2022-11-02 14-05-50](https://user-images.githubusercontent.com/109771302/235128623-94f18de3-ce72-4dea-b8fe-09bde83b5502.png)
-![Screenshot from 2022-11-02 14-11-57](https://user-images.githubusercontent.com/109771302/235128643-479a0f9c-bb10-47ef-bb3f-ec4a21e616f1.png)
 ![Screenshot from 2022-11-09 14-48-21](https://user-images.githubusercontent.com/109771302/200846940-e7098d44-bfb1-498f-b252-146d4fe3cf06.png)
 ![Screenshot from 2022-11-02 03-32-23](https://user-images.githubusercontent.com/109771302/235128918-123dc9b8-90ac-458a-97da-2dd90dcff118.png)
 ![Screenshot from 2022-11-02 14-01-53](https://user-images.githubusercontent.com/109771302/235128942-e9788413-387e-460b-b940-5a661cb398d0.png)
