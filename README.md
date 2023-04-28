@@ -30,6 +30,4 @@ Hydraulic Calculation Web App
 
 ![jesa13](https://user-images.githubusercontent.com/109771302/235131606-eb88acc5-3792-46b9-b72c-cdc4faf33e9f.png)
 
-![jesa14](https://user-images.githubusercontent.com/109771302/235131623-ad1c240a-2728-40ed-ac32-64a1d6e60a1b.png)
-
 ![Screenshot from 2022-11-09 00-52-32](https://user-images.githubusercontent.com/109771302/200701315-44936123-67b2-48c4-b4e9-49ae67ec8923.png)
