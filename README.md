@@ -1,5 +1,5 @@
 # Hydraulic-Calculation-App
-Hydraulic Calculation application using PHP, MySQL, AJAX & Jquery.
+Hydraulic Calculation application using PHP, MySQL, AJAX & Jquery
 
 ## Overview
 
